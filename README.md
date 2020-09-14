@@ -1,2 +1,2 @@
-# LP-Travel
+# lp-travel
 Landing Page - Travel Site
